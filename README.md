@@ -1,4 +1,4 @@
 KendoSPADemo
 ============
 
-A little demo to demostrate how to create single page application using Kendo UI
+Demostrate how to create single page application using Kendo UI
